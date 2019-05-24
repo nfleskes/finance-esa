@@ -1,7 +1,6 @@
 library(data.table)
 library(dplyr)
 library(Hmisc)
-setwd("/home/nicole/Documents/Spring 2018/Masters Thesis")
 
 s <-readRDS('final.rds')
 
