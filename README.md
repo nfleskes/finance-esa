@@ -1,8 +1,12 @@
 # The Financial Structure Landscape of Europe
 Nicole Fleskes
+
 Université Paris 1 Panthéon-Sorbonne
+
 Pantheon-Sorbonne Master in Economics Thesis
+
 May 27, 2019
+
 
 The online version of the paper can be cound [here]
 
@@ -55,8 +59,7 @@ Hmisc
 ## STATA Files
 STATA version: 15
 
-1. timesseries_analysis.do
-Contains the Augmented Dickey Fuller tests for the following variables for a subsample of countries:
+1. timesseries_analysis.do: Contains the Augmented Dickey Fuller tests for the following variables for a subsample of countries:
 ```
 Debt to Value
 Debt to GDP
