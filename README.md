@@ -37,7 +37,7 @@ Stock Market Capitalization (Value of Publicly Trade Shares, % of GDP)
 Deposit Money Bank Assets to GDP (%)
 Total Fixed Assets (Net) % of GDP
 Short Term to Long Term Debt
-Real Implicit Interest Rate
+
 ```
 
 ## R Files
