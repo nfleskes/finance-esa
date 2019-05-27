@@ -44,9 +44,10 @@ R-version: 3.4.4
 1. table_calculations: Contains the calcualtions and code used produce the final.csv file
 Libraries:
 ```
+data.table
+dplyr
+reshape2
 ```
-
-
 
 2. correlation_tables.R: Contains the code to produce the correlation tables as found in the Correlation Tables folder.
 Libraries:
