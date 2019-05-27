@@ -1,6 +1,8 @@
 # The Financial Structure Landscape of Europe
 Nicole Fleskes
 
+Master Thesis Advisor: Luis Reyes
+
 Université Paris 1 Panthéon-Sorbonne
 
 Pantheon-Sorbonne Master in Economics Thesis
