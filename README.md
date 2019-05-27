@@ -8,7 +8,7 @@ Pantheon-Sorbonne Master in Economics Thesis
 May 27, 2019
 
 
-The online version of the paper can be found here: rpubs.com/nfleskes/PSMEthesis
+The online version of the paper can be found here: http://rpubs.com/nfleskes/PSMEthesis
 
 The appendix for this paper can be found here: http://rpubs.com/nfleskes/PSMEthesisappendix
 
