@@ -24,7 +24,7 @@ This paper analyzes the capital structure and financial structure of European fi
 All figures used in the paper are contained in the Graphs folder
 
 ## Data Tables
-1. Correlation tables: Contains Pearson pairwise correlations for D/GDP, D/VAL, D/GDP for each country and sector throughout the sample time period. Correlations significant at the 5% level are highlighted in green.
+1. Pearson pairwise correlations for D/GDP, D/VAL, and ST/LT for each country and sector throughout the sample time period. Correlations significant at the 5% level are highlighted in green.
 2. Price Indices: Contains the indexed prices of debt and equity security liabilities for both the financial and non-financial sectors. Indexed to 2015.
 5. Final: Contains the final data table used in the creation of figures and correlations
 4. Key Years: Contains a smaller subsample of the final dataset for easier viewing. Data is included from 1995, 2000, 2005, 2010, and 2015 for the following variables for all countries in the sample:
