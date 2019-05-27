@@ -8,7 +8,7 @@ Pantheon-Sorbonne Master in Economics Thesis
 May 27, 2019
 
 
-The online version of the paper can be cound [http://rpubs.com/nfleskes/PSMEthesis]
+The online version of the paper can be found here: rpubs.com/nfleskes/PSMEthesis
 
 #### Abstract: 
 
