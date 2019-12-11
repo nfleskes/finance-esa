@@ -45,7 +45,7 @@ Short Term to Long Term Debt
 ## R Files
 R-version: 3.4.4
 
-1. table_calculations: Contains the calcualtions and code used produce the final.csv file
+1. table_calculations: Contains the calculations and code used produce the final.csv file
 Libraries:
 ```
 data.table
